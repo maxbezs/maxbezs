@@ -2,8 +2,7 @@
 
 **`CTO | Full stack developer | Designer`**
 
-## We create, build, lunch
-Custom Digital Products ##
+## We create, build, lunch Custom Digital Products ##
 
 Our expert team create Custom Digital Products for your business. From idea generation to market domination, we provide comprehensive support to help you unlock your business's potential.
 
