@@ -1,5 +1,7 @@
 #👾max-bezs
+
 **`CTO | Full stack developer | Designer`**
+
 [![MongoDB](https://img.shields.io/static/v1?logoColor=white&label=&message=mongodb&style=for-the-badge&logo=mongodb&color=47A248)](#)
 [![Node.js](https://img.shields.io/static/v1?logoColor=white&label=&message=node.js&style=for-the-badge&logo=nodedotjs&color=339933)](#)
 [![React](https://img.shields.io/static/v1?logoColor=white&label=&message=react&style=for-the-badge&logo=react&color=0088CC)](#)
