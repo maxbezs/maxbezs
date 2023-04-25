@@ -1,1 +1,1 @@
-[![MongoDB](https://custom-icon-badges.demolab.com/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![MongoDB](https://img.shields.io/static/v1?logoColor=white&label=&message=blender&style=for-the-badge&logo=blender&color=orange)](https://www.mongodb.com/)
