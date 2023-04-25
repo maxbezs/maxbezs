@@ -1,8 +1,6 @@
-# 👾max-bezs
+# We create, build, lunch Custom Digital Products
 
-**`CTO | Full stack developer | Designer`**
-
-## We create, build, lunch Custom Digital Products ##
+**`Managers | Full stack developers | Designers`**
 
 Our expert team create Custom Digital Products for your business. From idea generation to market domination, we provide comprehensive support to help you unlock your business's potential.
 
