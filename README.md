@@ -5,3 +5,4 @@
 [![JS](https://img.shields.io/static/v1?logoColor=white&label=&message=node.js&style=for-the-badge&logo=nodedotjs&color=339933)](#)
 [![Flask](https://img.shields.io/static/v1?logoColor=white&label=&message=flask&style=for-the-badge&logo=flask&color=000000)](#)
 [![Express](https://img.shields.io/static/v1?logoColor=white&label=&message=express&style=for-the-badge&logo=express&color=000000)](#)
+[![CSS3](https://img.shields.io/static/v1?logoColor=white&label=&message=css3&style=for-the-badge&logo=css3&color=1572B6)](#)
