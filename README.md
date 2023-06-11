@@ -1,4 +1,4 @@
-# We create, build, lunch Custom Digital Products
+# We create, build and lunch Custom Digital Products
 
 **`Managers | Full stack developers | Designers`**
 
